@@ -7,7 +7,7 @@ const userData = [
   },
   {
     id: 2,
-    name: "Jane Smith",
+    name: "John Smith",
     email: "jane.smith@example.com",
     age: 34,
   },
@@ -60,3 +60,5 @@ const userData = [
     age: 26,
   },
 ];
+
+module.exports = { userData };
